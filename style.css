@@ -29,16 +29,43 @@ section {
     font-size: 20px;
     margin: 8px 0;
  }
-.line1 { color:#013220; }
-.line2 { color:#0B3D0B; }
-.line3 { color:#01796F; }
-.line4 { color:#1A4D2E; }
-.line5 { color:#2E8B57; }
-.line6 { color:#3CB371; }
-.line7 { color:#32CD32; }
-.line8 { color:#00FF7F; }
-.line9 { color: #90EE90; }
-.line10 { color:#98FB98; }
-.line11 { color:#F5FFFA; }
-.line12 { color:#F0FFF0; }
+.line1{
+background:#013220; 
+color:#FFFFFF;
+}
+.line2 {
+background:#0B3D0B; 
+color:#DCDCDC;
+}
+.line3 {
+background:#01796F;
+color:#D3D3D3; }
+.line4 {
+background:#1A4D2E;
+color:#C0C0C0; }
+.line5 {
+background:#2E8B57;
+color:#A9A9A9; }
+.line6 {
+background:#3CB371;
+color:#808080; }
+.line7 {
+background:#32CD32;
+color:#696969; }
+.line8 {
+background:#00FF7F;
+color:#708090; }
+.line9 {
+background:#90EE90;
+color: #2F4F4F; }
+.line10 {
+background:#98FB98;
+color:#343434; }
+.line11 {
+background:#F5FFFA;
+color:#353839; }
+.line12 {
+background:#F0FFF0
+color:#000000; }
+
 
